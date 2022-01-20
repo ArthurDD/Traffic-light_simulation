@@ -1,0 +1,5 @@
+TABLEAU DE BORD
+
+La taille moyenne des files lorsque le feu est rouge est de : 3.642857 voitures.
+La taille maximale des files lorsque le feu est rouge est de : 8 voitures.
+En moyenne, les voitures attendent 14.042106 secondes.

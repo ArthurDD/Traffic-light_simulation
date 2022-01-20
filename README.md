@@ -1,2 +1,2 @@
 # Traffic-light_simulation
-Simulation of the traffic at traffic-light 
+Scholar project on simulation of the traffic at traffic-light 
